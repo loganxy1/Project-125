@@ -1,0 +1,45 @@
+body{
+    background: url("https://c8.alamy.com/comp/2B070NP/vector-doodle-seamless-pattern-with-speech-bubbles-background-with-words-of-exclamation-in-linear-style-illustration-2B070NP.jpg");
+}
+
+.heading{
+    background-color: white;
+    color:lightcoral;
+    font-family: 'Lobster', cursive;
+    width: 90%;
+    box-shadow: 5px 5px black;
+}
+
+h1{
+    padding-top: 10px;
+    font-size: 40px;
+    font-family: 'Rampart One', cursive;
+    letter-spacing: 4px;
+    font-weight: bold;
+    
+}
+
+p{
+    font-size: 15px;
+    color: black;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    color: black;
+    background-color:white;
+    font-family: 'Cinzel', serif;
+    width: 100%;
+}
+
+canvas{
+    border: solid black 3px;
+    box-shadow: 1px 1px 38px  lightcoral;
+}
+
+video{
+    border: solid black 3px;
+    box-shadow: 1px 1px 38px  lightcoral;
+}
